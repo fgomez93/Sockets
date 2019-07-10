@@ -1,0 +1,928 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"div",
+				"div_msgs"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"texto",
+				"textos"
+			],
+			[
+				"an",
+				"anchuraToSlider"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"con",
+				"confirm"
+			],
+			[
+				"_",
+				"_projectService"
+			],
+			[
+				"A",
+				"ActivatedRoute"
+			],
+			[
+				"PROJECT",
+				"project"
+			],
+			[
+				"S",
+				"stringify"
+			],
+			[
+				"com",
+				"component"
+			],
+			[
+				"compon",
+				"components"
+			],
+			[
+				"de",
+				"deleteProject"
+			],
+			[
+				"a",
+				"any"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"marig",
+				"margin-right\tproperty"
+			],
+			[
+				"mari",
+				"margin-left\tproperty"
+			],
+			[
+				"sa",
+				"save_project"
+			],
+			[
+				"compo",
+				"components"
+			],
+			[
+				"glo",
+				"Global"
+			],
+			[
+				"Pro",
+				"ProjectService"
+			],
+			[
+				"serv",
+				"services"
+			],
+			[
+				"H",
+				"HttpHeaders"
+			],
+			[
+				"file",
+				"filesToUpload"
+			],
+			[
+				"G",
+				"Global"
+			],
+			[
+				"for",
+				"formData"
+			],
+			[
+				"proj",
+				"projectForm"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"P",
+				"ProjectService"
+			],
+			[
+				"Pr",
+				"ProjectService"
+			],
+			[
+				"gl",
+				"Global"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground"
+			],
+			[
+				"app",
+				"appRoutingProviders"
+			],
+			[
+				"fil",
+				"fileExt"
+			],
+			[
+				"fi",
+				"filePath"
+			],
+			[
+				"mu",
+				"multipartMiddleware"
+			],
+			[
+				"project",
+				"projectRemoved"
+			],
+			[
+				"pr",
+				"ProjectController"
+			],
+			[
+				"pro",
+				"projectUpdated"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"nu",
+				"numero2"
+			],
+			[
+				"nume",
+				"numero1"
+			],
+			[
+				"num",
+				"numero2"
+			],
+			[
+				"us",
+				"usuario_guardado"
+			],
+			[
+				"new",
+				"new_user"
+			],
+			[
+				"Http",
+				"HttpHeaders"
+			],
+			[
+				"form",
+				"formContacto"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"C",
+				"CalculadoraPipe"
+			],
+			[
+				"valu",
+				"value2"
+			],
+			[
+				"Pipe",
+				"PipeTransform"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"Ex",
+				"ExternoComponent"
+			],
+			[
+				"Z",
+				"ZapatillaService"
+			],
+			[
+				"zapat",
+				"Zapatilla"
+			],
+			[
+				"esta",
+				"estampacion"
+			],
+			[
+				"cam",
+				"cambiarColor"
+			],
+			[
+				"numero",
+				"numero2"
+			],
+			[
+				"n",
+				"numero1"
+			],
+			[
+				"le",
+				"lenguajes"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"abo",
+				"about_parrafo"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"Marg",
+				"margin-top\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"cl",
+				"clientX"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"mo",
+				"Mousedown"
+			],
+			[
+				"ca",
+				"cambiaVerde"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"mi",
+				"mi_clase"
+			],
+			[
+				"div_",
+				"div_profesor"
+			],
+			[
+				"profesor",
+				"profesor_string"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"fo",
+				"formulario"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"CON",
+				"console"
+			],
+			[
+				"JS",
+				"JSON"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"pe",
+				"peliculas"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"te",
+				"texto"
+			],
+			[
+				"NO",
+				"nombre"
+			],
+			[
+				"e",
+				"encabezado"
+			],
+			[
+				"que",
+				"querySelector"
+			],
+			[
+				"qu",
+				"QuerySelector"
+			],
+			[
+				"ge",
+				"getElementsByTagName"
+			],
+			[
+				"se",
+				"seccion"
+			],
+			[
+				"va",
+				"valor"
+			],
+			[
+				"contei",
+				"contenidoEnTexto"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"buscar",
+				"buscar"
+			],
+			[
+				"LE",
+				"lenguaje"
+			],
+			[
+				"leng",
+				"lenguaje"
+			],
+			[
+				"cadena",
+				"cadena_array"
+			],
+			[
+				"h",
+				"hola_mundo"
+			],
+			[
+				"sum",
+				"sumaPorDos"
+			],
+			[
+				"suma",
+				"sumaYmuestra"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"RE",
+				"resto_frutas"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server/index.js",
+			"settings":
+			{
+				"buffer_size": 773,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/index.html",
+			"settings":
+			{
+				"buffer_size": 926,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/main.js",
+			"settings":
+			{
+				"buffer_size": 762,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/curso-sockets",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/curso-sockets/client",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/curso-sockets/server"
+	],
+	"file_history":
+	[
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/curso-sockets/package.json",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/components/contact/contact.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/components/contact/contact.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/resaltado.directive.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/components/slider/slider.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/components/slider/slider.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/angular.json",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/assets/img/pattern.png",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/index.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/tsconfig.json",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/package.json",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/assets/css/styles.css",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/components/detail/detail.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/components/detail/detail.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/components/create/create.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/components/create/create.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/components/edit/edit.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/services/project.service.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/app.routing.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/components/projects/projects.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/components/projects/projects.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/app.module.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/backend/routes/project.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/backend/controllers/project.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/services/upload.service.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/services/global.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/backend/index.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/backend/app.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/models/project.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/components/about/about.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/components/about/about.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/proyecto-angular/src/app/app.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/backend/models/project.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/backend/uploads/wfwema3PE_9rZ9KY_UD_Dpcz.jpg",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/backend/uploads/fgXk3B-aMDCkJk8FRxazcA6z.jpg",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/backend/uploads/0UJAoPup8KHSZyl33eeW2XoB.jpg",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/backend/package.json",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/backend/calculadora.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/services/peticiones.service.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/externo/externo.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/externo/externo.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/contacto/contacto.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/contacto/contacto.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/app.routing.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/models/contacto.usuario.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/pipes/calculadora.pipe.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/app.module.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/app.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/services/zapatilla.service.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/zapatillas/zapatillas.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/home/home.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/home/home.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/cursos/cursos.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/cursos/cursos.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/index.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/assets/styles.css",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/zapatillas/zapatillas.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/angular.json",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/models/zapatilla.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/videojuego/videojuego.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/app.component.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/models/configuracion.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/videojuego/videojuego.component.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-angular/src/app/videojuego/videojuego.component.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/poo-y-typescript/index.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/poo-y-typescript/js/camiseta.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/poo-y-typescript/js/main.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/poo-y-typescript/js/camiseta.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/poo-y-typescript/js/04-funciones.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/poo-y-typescript/js/03-tipos-de-datos.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/poo-y-typescript/js/02-holamundo.ts",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/poo-y-typescript/js/02-holamundo.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/poo-y-typescript/js/01-clase-json.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/ejercicio-practico-jquery/contact.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/ejercicio-practico-jquery/css/styles.css",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/ejercicio-practico-jquery/js/main.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/ejercicio-practico-jquery/reloj.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/ejercicio-practico-jquery/index.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/ejercicio-practico-jquery/about.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/ejercicio-practico-jquery/css/blue.css",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/ejercicio-practico-jquery/css/red.css",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/ejercicio-practico-jquery/css/green.css",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/ejercicio-practico-jquery/css/style.css",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-jquery/06-interface.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-jquery/interface.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-jquery/ajax.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-jquery/05-ajax.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-jquery/04-efectos.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-jquery/efectos.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-jquery/textos.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-jquery/03-textos.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-jquery/eventos.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-jquery/02-eventos.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-jquery/index.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/aprendiendo-jquery/01-selectores.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/index.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/38-fechas.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/json/externo.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/json/37-try-catch.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/json/36-fetch.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/json/index.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/json/ejercicioLocalStorage.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/json/localstorage.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/json/json.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/20-eventos.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/ejercicios de js/formulario.html",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/ejercicios de js/ejercicioDom.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/18-dom.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/21-timers.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/19-bom.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/ejercicios de js/ejercici9-arrays.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/17-array-multi.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/16-arrays.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/15-plantillas.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/14-funciones-texto.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/13-ambito.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/12-funciones-anonimas.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/11-parametros.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/11-parametros",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/js/10-funciones.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/ejercicios de js/ejercicio8.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/ejercicios de js/ejercicio7.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/ejercicios de js/ejercicio6.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/ejercicios de js/ejercicio5.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/ejercicios de js/ejercicio4.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/ejercicios de js/ejercicio3.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/ejercicios de js/ejercicio2.js",
+		"/C/Users/cisco/OneDrive/Escritorio/web/curso js/hola mundo/ejercicios de js/ejercicio1.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/\";\n",
+			"');\n",
+			"\");\n",
+			"(){\n",
+			"strict"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								632,
+								632
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								724,
+								724
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 271.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-sockets.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
